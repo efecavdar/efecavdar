@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @efecavdar
-- 👀 I’m interested in Deep learning, Artifical Intelligence, Robot programming
-- 🌱 I’m currently learning Robot programmnig
-- 📫 How to reach me instagram : @cavdar.efe
-- Im an Electric an Electronic student in Marmara University from Turkey (Nearly graduate)
-- 
-
-<!---
-efecavdar/efecavdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Because of the internships I’ve done and the projects I’ve been in I had the opportunity to work in the field of robotics and automation in factories like Simetrik, Nobel and Beyçelik and I was involved in the production of armored vehicles in the defense industry. I have seen different type of robots like KUKA, ABB and have been programmed in the field and programmed using simulation program form the computer environment. Even I gained knowledge in many areas like preparing electric panels, controlling pneumatic systems and mechanical systems.
+	My graduation thesis is about hybrid power systems and deep neural networks, because of that I have improved myself on these subjects outside of the school and I am still improving myself about these subjects. We are working together with my thesis teacher on my thesis (Short term power load forecasting for the stand-alone hybrid power system using LSTM architecture) for the publication on the International Journal of Electrical Power & Energy System. Also, I am working on image processing with OpenCV and artificial intelligence, deep neural networks and combine them whit each other.
